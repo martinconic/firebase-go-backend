@@ -62,7 +62,7 @@ func main() {
 	defer client.Close()
 
 	if len(os.Args) < 2 {
-		fmt.Println("Missing parameter, provide file name!")
+		fmt.Println("Missing paramete(s)!")
 		return
 	}
 
