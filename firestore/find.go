@@ -58,5 +58,4 @@ func main() {
 		i++
 	}
 
-	fmt.Println(i)
 }
